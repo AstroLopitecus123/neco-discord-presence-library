@@ -1,14 +1,15 @@
 {
   "programs": [
     {
-      "id": "program-1765320175567",
-      "name": "springtoolsuite4.exe",
-      "createdAt": "2025-12-09T22:42:56.319Z",
-      "jsonFile": "programs/program-1765320175567.json",
+      "id": "program-1765320434978",
+      "name": "Packettracer",
+      "createdAt": "2025-12-09T22:47:16.029Z",
+      "jsonFile": "programs/program-1765320434978.json",
       "imageFile": "",
-      "category": "Desarrollo",
+      "author": "Mondongo",
+      "category": "Redes",
       "description": "Configuración compartida por Mondongo"
     }
   ],
-  "lastUpdated": "2025-12-09T22:42:56.319Z"
+  "lastUpdated": "2025-12-09T22:47:16.029Z"
 }
