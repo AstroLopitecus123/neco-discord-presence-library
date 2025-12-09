@@ -39,7 +39,18 @@
       "author": "AstroLopitecus",
       "category": "Modelado",
       "description": "Configuración compartida por AstroLopitecus"
+    },
+    {
+      "id": "program-1765324490345",
+      "name": "Balsamiqwireframes",
+      "createdAt": "2025-12-09T23:54:51.476Z",
+      "jsonFile": "programs/program-1765324490345.json",
+      "imageFile": "",
+      "author": "Astro",
+      "category": "Modelado",
+      "description": "Configuración compartida por Astro",
+      "large_text": "Balsamiq"
     }
   ],
-  "lastUpdated": "2025-12-09T23:39:53.902Z"
+  "lastUpdated": "2025-12-09T23:54:51.476Z"
 }
