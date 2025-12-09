@@ -1,0 +1,12 @@
+{
+  "name": "Postman",
+  "applicationId": "1437984906121576598",
+  "details": "Probando APIs REST",
+  "state": null,
+  "large_image": "post",
+  "large_text": "Postman",
+  "manual_active": true,
+  "auto_detect_file": true,
+  "category": "Testing/API",
+  "description": "Configuración compartida por Mondongo"
+}
