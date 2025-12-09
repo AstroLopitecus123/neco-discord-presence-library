@@ -9,7 +9,17 @@
       "author": "Mondongo",
       "category": "Testing/API",
       "description": "Configuración compartida por Mondongo"
+    },
+    {
+      "id": "program-1765322312892",
+      "name": "Balsamiqwireframes",
+      "createdAt": "2025-12-09T23:18:35.634Z",
+      "jsonFile": "programs/program-1765322312892.json",
+      "imageFile": "images/program-1765322312892-image.png",
+      "author": "Astro",
+      "category": "Modelado",
+      "description": "Configuración compartida por Astro"
     }
   ],
-  "lastUpdated": "2025-12-09T22:55:53.247Z"
+  "lastUpdated": "2025-12-09T23:18:35.634Z"
 }
