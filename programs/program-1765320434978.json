@@ -1,0 +1,12 @@
+{
+  "name": "Packettracer",
+  "applicationId": "1436522562229112892",
+  "details": "Diseñando topologías de red",
+  "state": "Simulación en Cisco Packet Tracer",
+  "large_image": "cisco",
+  "large_text": "Cisco Packet Tracer",
+  "manual_active": true,
+  "auto_detect_file": true,
+  "category": "Redes",
+  "description": "Configuración compartida por Mondongo"
+}
