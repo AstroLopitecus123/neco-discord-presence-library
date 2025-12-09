@@ -1,0 +1,12 @@
+{
+  "name": "springtoolsuite4.exe",
+  "applicationId": "1437983706282459247",
+  "details": "Desarrollando con Spring",
+  "state": null,
+  "large_image": "spring",
+  "large_text": "Spring Tool Suite",
+  "manual_active": true,
+  "auto_detect_file": true,
+  "category": "Desarrollo",
+  "description": "Configuración compartida por Mondongo"
+}
