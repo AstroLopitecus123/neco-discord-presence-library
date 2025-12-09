@@ -1,5 +1,14 @@
 {
-	"programs": [],
-	"lastUpdated": "2024-01-01T00:00:00.000Z"
+  "programs": [
+    {
+      "id": "program-1765320156501",
+      "name": "photoshop.exe",
+      "createdAt": "2025-12-09T22:42:37.406Z",
+      "jsonFile": "programs/program-1765320156501.json",
+      "imageFile": "",
+      "category": "Edición",
+      "description": "Configuración compartida por Mondongo"
+    }
+  ],
+  "lastUpdated": "2025-12-09T22:42:37.406Z"
 }
-
