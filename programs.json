@@ -11,15 +11,15 @@
       "description": "Configuración compartida por Mondongo"
     },
     {
-      "id": "program-1765322312892",
+      "id": "program-1765322548548",
       "name": "Balsamiqwireframes",
-      "createdAt": "2025-12-09T23:18:35.634Z",
-      "jsonFile": "programs/program-1765322312892.json",
-      "imageFile": "images/program-1765322312892-image.png",
-      "author": "Astro",
+      "createdAt": "2025-12-09T23:22:29.783Z",
+      "jsonFile": "programs/program-1765322548548.json",
+      "imageFile": "",
+      "author": "Mondongo",
       "category": "Modelado",
-      "description": "Configuración compartida por Astro"
+      "description": "Configuración compartida por Mondongo"
     }
   ],
-  "lastUpdated": "2025-12-09T23:18:35.634Z"
+  "lastUpdated": "2025-12-09T23:22:29.783Z"
 }
