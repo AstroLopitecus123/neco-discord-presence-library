@@ -19,7 +19,17 @@
       "author": "Mondongo",
       "category": "Modelado",
       "description": "Configuración compartida por Mondongo"
+    },
+    {
+      "id": "program-1765322948330",
+      "name": "Winword",
+      "createdAt": "2025-12-09T23:29:09.527Z",
+      "jsonFile": "programs/program-1765322948330.json",
+      "imageFile": "",
+      "author": "Mondongo",
+      "category": "Productividad",
+      "description": "Configuración compartida por Mondongo"
     }
   ],
-  "lastUpdated": "2025-12-09T23:22:29.783Z"
+  "lastUpdated": "2025-12-09T23:29:09.527Z"
 }
