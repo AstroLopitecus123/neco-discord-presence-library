@@ -1,14 +1,14 @@
 {
   "programs": [
     {
-      "id": "program-1765320156501",
-      "name": "photoshop.exe",
-      "createdAt": "2025-12-09T22:42:37.406Z",
-      "jsonFile": "programs/program-1765320156501.json",
+      "id": "program-1765320175567",
+      "name": "springtoolsuite4.exe",
+      "createdAt": "2025-12-09T22:42:56.319Z",
+      "jsonFile": "programs/program-1765320175567.json",
       "imageFile": "",
-      "category": "Edición",
+      "category": "Desarrollo",
       "description": "Configuración compartida por Mondongo"
     }
   ],
-  "lastUpdated": "2025-12-09T22:42:37.406Z"
+  "lastUpdated": "2025-12-09T22:42:56.319Z"
 }
