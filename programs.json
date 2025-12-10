@@ -1,46 +1,6 @@
 {
   "programs": [
     {
-      "id": "program-1765320951854",
-      "name": "Postman",
-      "createdAt": "2025-12-09T22:55:53.247Z",
-      "jsonFile": "programs/program-1765320951854.json",
-      "imageFile": "",
-      "author": "Mondongo",
-      "category": "Testing/API",
-      "description": "Configuración compartida por Mondongo"
-    },
-    {
-      "id": "program-1765322548548",
-      "name": "Balsamiqwireframes",
-      "createdAt": "2025-12-09T23:22:29.783Z",
-      "jsonFile": "programs/program-1765322548548.json",
-      "imageFile": "",
-      "author": "Mondongo",
-      "category": "Modelado",
-      "description": "Configuración compartida por Mondongo"
-    },
-    {
-      "id": "program-1765322948330",
-      "name": "Winword",
-      "createdAt": "2025-12-09T23:29:09.527Z",
-      "jsonFile": "programs/program-1765322948330.json",
-      "imageFile": "",
-      "author": "Mondongo",
-      "category": "Productividad",
-      "description": "Configuración compartida por Mondongo"
-    },
-    {
-      "id": "program-1765323592674",
-      "name": "Balsamiqwireframes",
-      "createdAt": "2025-12-09T23:39:53.901Z",
-      "jsonFile": "programs/program-1765323592674.json",
-      "imageFile": "",
-      "author": "AstroLopitecus",
-      "category": "Modelado",
-      "description": "Configuración compartida por AstroLopitecus"
-    },
-    {
       "id": "program-1765324490345",
       "name": "Balsamiqwireframes",
       "createdAt": "2025-12-09T23:54:51.476Z",
@@ -52,5 +12,5 @@
       "large_text": "Balsamiq"
     }
   ],
-  "lastUpdated": "2025-12-09T23:54:51.476Z"
+  "lastUpdated": "2025-12-10T00:04:21.561Z"
 }
