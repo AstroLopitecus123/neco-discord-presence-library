@@ -10,7 +10,18 @@
       "category": "Modelado",
       "description": "Configuración compartida por Astro",
       "large_text": "Balsamiq"
+    },
+    {
+      "id": "program-1765327064273",
+      "name": "Winword",
+      "createdAt": "2025-12-10T00:37:45.415Z",
+      "jsonFile": "programs/program-1765327064273.json",
+      "imageFile": "",
+      "author": "Mondongo",
+      "category": "Productividad",
+      "description": "Configuración compartida por Mondongo",
+      "large_text": "Word"
     }
   ],
-  "lastUpdated": "2025-12-10T00:05:21.547Z"
+  "lastUpdated": "2025-12-10T00:37:45.415Z"
 }
